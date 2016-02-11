@@ -1,0 +1,33 @@
+_repo: Das-Stuttgarter-Hutzelmannlein_48464
+contributor:
+  creator:
+    editor:
+      agent_name: Sallwürk, Edmund von
+      gutenberg_agent_id: '44808'
+      url: http://www.gutenberg.org/2009/agents/44808
+creator:
+  author:
+    agent_name: Mörike, Eduard
+    aliases:
+    - Möricke, Eduard
+    - Moricke, Eduard
+    - Morike, Eduard Friedrich
+    - Mörike, Eduard Friedrich
+    birthdate: 1804
+    deathdate: 1875
+    gutenberg_agent_id: '2493'
+    url: http://www.gutenberg.org/2009/agents/2493
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Eduard_Mörike
+    - http://en.wikipedia.org/wiki/Eduard_Mörike
+description: ''
+gutenberg_issued: '2015-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48464'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Das Stuttgarter Hutzelmännlein
+url: http://www.gutenberg.org/ebooks/48464
