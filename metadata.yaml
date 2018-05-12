@@ -1,10 +1,14 @@
 _repo: Das-Stuttgarter-Hutzelmannlein_48464
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Sallwürk, Edmund von
       gutenberg_agent_id: '44808'
       url: http://www.gutenberg.org/2009/agents/44808
+covers:
+- cover_type: archival
+  image_path: 48464-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Mörike, Eduard
@@ -21,6 +25,8 @@ creator:
     - http://de.wikipedia.org/wiki/Eduard_Mörike
     - http://en.wikipedia.org/wiki/Eduard_Mörike
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48464#Das-Stuttgarter-Hutzelmannlein
 gutenberg_issued: '2015-03-12'
 gutenberg_type: Text
 identifiers:
